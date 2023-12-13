@@ -1,2 +1,14 @@
-img src{ object-fit: cover;}
-  
+body{
+    margin:0;
+    padding:0;
+
+}
+
+
+img {
+    width: 100%;
+}
+  .image-container{
+    max-width: 20rem;
+    min-width: 15rem;
+  }
